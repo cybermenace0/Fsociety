@@ -5,33 +5,10 @@
 
 #
 <h1><b><i> F**k Society </i></b></h1>
-<h2><i><b> This Tool Is Only Available For Beta Testing. In Futures Many Tools And Features Will Get Add 😇😇😇. </i></b></h2><br>
+<h2><i><b> This Tool Is Only Available For Beta Testing. In Futures Many Tools And Features Will Get Add. </i></b></h2><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4DF72C&background=000000&width=435&lines=All+In+One+Pentesting+Toolkit;Inspired+From+MR.+ROBOT+Web+Series;A+Toolkit+Made+By+Hacker+For+Hackers" alt="Typing SVG" /></a><br></br>
 <img src="https://img.shields.io/badge/Python 3.11- red"> <img src="https://img.shields.io/badge/Fsociety-orange"> <img src="https://img.shields.io/badge/Download-Now-green"> <img src="https://img.shields.io/badge/Licence-GPL 3.0-yellowgreen">
 
-#
-<h2><b><i>Pre-Booting Screen :</h2></b></i>
-
-![Alt text](screenshots/pre-booting-screen.png)
-#
-<h2><b><i>Booting Screen :</h2></b></i>
-
-![Alt text](screenshots/booting-screen.png)
-
-#
-<h2><b><i>Booted Screen :</h2></b></i>
-
-![Alt text](screenshots/fsociety1.png)
-
-#
-<h2><b><i>Choose Options: </h2></b></i>
-
-![Alt text](screenshots/fsociety2.png)
-
-#
-<h2><b><i>Exit Screen :</h2></b></i>
-
-![Alt text](screenshots/exit-screen.png)
 
 #
 <h1><b>What Is Fsociety ?</h1></b>
@@ -63,7 +40,7 @@
 <img src='https://static.wikia.nocookie.net/villains/images/4/4a/Wiki-logo.jpg/revision/latest?cb=20180214062811'>
 
 # 
-<h3><b><i>🔴🔴🔴 This Framework Mostly Contains My Scripts On <a href="https://github.com/R3DHULK/python-for-ethical-hacking/"> Python For Ethical Hacking </a>Repo. And Every Tools I Used In This Framework Are Available Separately On My Github Account. 🔴🔴🔴</h3></b></i>
+<h3><b><i>🔴🔴🔴 This Framework Mostly Contains My Scripts On Python For Ethical Hacking. 🔴🔴🔴</h3></b></i>
 
 #
 <h2><b>Git Installation: </h2></b>
@@ -76,7 +53,7 @@ sudo apt install python
 sudo apt install git
 
 # Clone Project
-git clone https://github.com/R3DHULK/fsociety
+git clone https://github.com/cybermenace0/Fsociety
 
 # Change Directory
 cd fsociety
